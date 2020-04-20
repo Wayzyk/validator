@@ -1,4 +1,4 @@
-#Validator
+# Validator
 
 Validator is a simple module with validate methods
 
@@ -8,7 +8,7 @@ Validator is a simple module with validate methods
 git clone https://github.com/Wayzyk/validator.git
 ```
 
-##Usage
+## Usage
 
 For check different validate methods call ruby file. For example:
 
